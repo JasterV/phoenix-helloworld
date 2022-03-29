@@ -1,4 +1,4 @@
-# Hello
+# Phoenix HelloWorld project
 
 To start your Phoenix server:
 
